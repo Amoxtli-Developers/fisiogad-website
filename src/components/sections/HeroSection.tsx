@@ -22,7 +22,6 @@ const HeroSection = () => {
                     >
                         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6 text-text">
                             Fisioterapia Profesional{" "}
-                            <span className="text-primary">A Domicilio</span>
                         </h1>
                         <p className="text-lg md:text-xl text-text-light mb-8 max-w-lg">
                             Tratamientos personalizados para lesiones

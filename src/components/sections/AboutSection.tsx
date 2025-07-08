@@ -71,13 +71,17 @@ const AboutSection = () => {
               Sobre <span className="text-primary">Fisiogad</span>
             </h2>
             <p className="text-text-light mb-6">
-              Fisiogad fue fundada con una misión simple: llevar servicios profesionales de fisioterapia
-              directamente a los pacientes en la comodidad de sus propios hogares.
+              En Fisioterapia y Rehabilitación Gad, ubicada en
+              Colonia del Valle, mejoramos tu salud y calidad
+              de vida con tratamientos personalizados de
+              fisioterapia y rehabilitación física. Atendemos
+              lesiones deportivas, problemas de columna
+              y procesos posoperatorios.
             </p>
             <p className="text-text-light mb-8">
-              Creemos que la curación ocurre mejor en entornos familiares, por lo que hemos
-              revolucionado el modelo tradicional de fisioterapia al llevar todos los beneficios de
-              una visita a la clínica directamente a tu puerta.
+              Nuestro equipo profesional te acompaña en cada paso de tu
+              recuperación con atención cercana y enfocada
+              en tus necesidades. Tu bienestar es nuestra prioridad
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
