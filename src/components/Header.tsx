@@ -65,7 +65,7 @@ const Header = () => {
         {/* Book Now Button (Desktop) */}
         <div className="hidden md:block">
           <Link 
-            href="#contact"
+            href="https://wa.link/ma7xty"
             className="btn-primary"
           >
             Reservar Ahora
@@ -116,7 +116,7 @@ const Header = () => {
                   </Link>
                 ))}
                 <Link 
-                  href="#contact"
+                  href="https://wa.link/ma7xty"
                   onClick={() => setIsMobileMenuOpen(false)}
                   className="btn-primary mt-4 w-full text-center"
                 >

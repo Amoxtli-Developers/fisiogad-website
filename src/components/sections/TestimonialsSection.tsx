@@ -13,46 +13,28 @@ import "@/styles/testimonials.css";
 const testimonials = [
     {
         id: 1,
-        name: "Sarah Johnson",
-        role: "Corredora de Maratón",
+        name: "Elvia Escobar",
+        role: "Ama de casa",
         content:
-            "Después de una grave lesión en la rodilla, temía no volver a correr. Los terapeutas de Fisiogad crearon un plan de recuperación personalizado, viniendo a mi casa tres veces por semana. ¡Seis meses después, completé mi maratón de regreso! No podría haberlo logrado sin ellos.",
+            "Fui a rehabilitación por un dolor en la muñeca y desde la primera sesión sentí mucha mejoria, lo recomiendo",
         rating: 5,
         image: "/placeholder-avatar.jpg",
     },
     {
         id: 2,
-        name: "Michael Rodriguez",
-        role: "Trabajador de Oficina",
+        name: "Allberto Franco Pallas",
+        role: "Cliente frecuente",
         content:
-            "Trabajar desde casa me causó un terrible dolor de espalda que los medicamentos de venta libre no podían aliviar. Las sesiones a domicilio con Fisiogad no solo aliviaron mi dolor, sino que me enseñaron ergonomía adecuada y ejercicios para prevenir futuros problemas. ¡Altamente recomendado!",
+            "El lugar está super bonito, la atención es muy buena ya que son profesionales, les gusta su trabajo, salo contendo después de mi terapia, 100% recomendados!!!",
         rating: 5,
         image: "/placeholder-avatar.jpg",
     },
     {
         id: 3,
-        name: "Emma Thompson",
-        role: "Maestra Jubilada",
+        name: "Sofía Bañuelos",
+        role: "Jugadora de tocho",
         content:
-            "A mi edad, viajar a una clínica se estaba volviendo difícil. Tener fisioterapia profesional en casa ha sido un cambio de vida. Los terapeutas siempre son puntuales, profesionales y muy conocedores. ¡Mi movilidad ha mejorado enormemente!",
-        rating: 5,
-        image: "/placeholder-avatar.jpg",
-    },
-    {
-        id: 4,
-        name: "David Chen",
-        role: "Entrenador de Baloncesto",
-        content:
-            "Como alguien que está activo a diario, las lesiones son parte de la vida. Lo que distingue a Fisiogad es su profundo conocimiento de las lesiones específicas del deporte y su compromiso de devolverte al juego de manera segura. ¡Su equipo también es de primera calidad!",
-        rating: 4,
-        image: "/placeholder-avatar.jpg",
-    },
-    {
-        id: 5,
-        name: "Olivia Garcia",
-        role: "Nueva Mamá",
-        content:
-            "La recuperación posparto fue mucho más difícil de lo que esperaba. El equipo de Fisiogad diseñó un programa suave que respetó mi proceso de recuperación mientras fortalecía mi núcleo. Poder tener sesiones en casa mientras mi bebé dormía fue invaluable.",
+            "Llevo varias sesiones con el equipo de Fisio GAD tras mi ruptura de ligamento cruzado anterior y no puedo estar más agradecida con todo lo que he avanzado. Las terapias han sido clave en mi recuperación y en mi regreso al tocho. Además, las sesiones de descarga muscular me han ayudado muchísimo en las temporadas. 100% recomendados!! Muy atentos y con el equipo necesario.",
         rating: 5,
         image: "/placeholder-avatar.jpg",
     },

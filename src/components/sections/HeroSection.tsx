@@ -80,7 +80,7 @@ const HeroSection = () => {
                         </div>
                         <div>
                             <p className="text-3xl font-bold text-primary mb-2">
-                                1000+
+                                100+
                             </p>
                             <p className="text-text-light">
                                 Pacientes Satisfechos
@@ -96,10 +96,10 @@ const HeroSection = () => {
                         </div>
                         <div>
                             <p className="text-3xl font-bold text-primary mb-2">
-                                24/7
+                                30
                             </p>
                             <p className="text-text-light">
-                                Soporte Disponible
+                                Certificaciones
                             </p>
                         </div>
                     </div>

@@ -36,7 +36,7 @@ const Footer = () => {
                                 <Facebook size={20} />
                             </Link>
                             <Link
-                                href="#"
+                                href="https://www.instagram.com/fisio.gad?utm_source=ig_web_button_share_sheet&igsh=MTF0cWdiYjZ5Z2drdA=="
                                 className="text-text-light hover:text-primary transition-colors duration-200"
                             >
                                 <Instagram size={20} />
@@ -101,7 +101,7 @@ const Footer = () => {
                                     className="text-primary mt-1 mr-3 flex-shrink-0"
                                 />
                                 <span className="text-text-light">
-                                    Calle Terapia 123, Distrito Médico, Ciudad
+                                    Félix Cuevas 301, Consultorio- 104, Colonia Del Valle, Benito Juárez, 03104 Ciudad de México, CDMX
                                 </span>
                             </div>
                             <div className="flex items-center">
@@ -110,7 +110,7 @@ const Footer = () => {
                                     className="text-primary mr-3 flex-shrink-0"
                                 />
                                 <span className="text-text-light">
-                                    +1 (555) 123-4567
+                                    +52 55 4959 1491
                                 </span>
                             </div>
                             <div className="flex items-center">
@@ -119,7 +119,7 @@ const Footer = () => {
                                     className="text-primary mr-3 flex-shrink-0"
                                 />
                                 <span className="text-text-light">
-                                    contacto@fisiogad.com
+                                    Terapia.gad@gmail.com
                                 </span>
                             </div>
                         </div>

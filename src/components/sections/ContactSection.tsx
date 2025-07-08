@@ -13,25 +13,25 @@ const ContactSection = () => {
     {
       icon: <Phone className="h-6 w-6 text-primary" />,
       title: 'Teléfono',
-      value: '+1 (555) 123-4567',
+      value: '+52 55 4959 1491',
       link: 'tel:+15551234567'
     },
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
       title: 'Correo',
-      value: 'contacto@fisiogad.com',
-      link: 'mailto:contacto@fisiogad.com'
+      value: 'Terapia.gad@gmail.com',
+      link: 'mailto:Terapia.gad@gmail.com'
     },
     {
       icon: <MapPin className="h-6 w-6 text-primary" />,
       title: 'Dirección',
-      value: 'Calle Terapia 123, Distrito Médico, Ciudad',
-      link: '#'
+      value: 'Félix Cuevas 301, Consultorio- 104, Colonia Del Valle, Benito Juárez, 03104 Ciudad de México, CDMX',
+      link: 'https://maps.app.goo.gl/1eUdE5NmNViAsbG6A'
     },
     {
       icon: <Clock className="h-6 w-6 text-primary" />,
       title: 'Horario de Atención',
-      value: 'Lun-Vie: 8am - 8pm, Sáb: 9am - 5pm',
+      value: 'Lun-Vie: 9am - 6pm, Sáb: 9am - 2pm',
       link: '#'
     }
   ]
@@ -207,7 +207,7 @@ const ContactSection = () => {
                   </p>
                 </div>
               </div>
-              <a href="tel:+15551234567" className="btn-primary w-full text-center">
+              <a href="https://wa.link/ma7xty" className="btn-primary w-full text-center">
                 Llamar Ahora
               </a>
             </div>
