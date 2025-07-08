@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   title: 'Fisiogad - Servicios de Fisioterapia Personalizada',
   description:
     'Tratamientos profesionales de fisioterapia a domicilio con atención personalizada para lesiones deportivas, lesiones por actividades diarias y dolores ocasionales.',
-  keywords: ['fisioterapia', 'lesiones deportivas', 'descarga muscular', 'lesiones', 'rehabilitación', 'fisioterapia a domicilio'],
+  keywords: ['fisioterapia', 'lesiones deportivas', 'descarga muscular', 'lesiones', 'rehabilitación', 'fisioterapia colonia del valle', 'fisioterapia benito juárez'],
   creator: 'Fisiogad',
   authors: [{ name: 'Fisiogad', url: 'https://fisiogad.com.mx' }],
   icons: {
